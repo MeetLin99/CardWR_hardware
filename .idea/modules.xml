@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CardWR.iml" filepath="$PROJECT_DIR$/CardWR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CardWR_hardware.iml" filepath="$PROJECT_DIR$/CardWR_hardware.iml" />
     </modules>
   </component>
 </project>
